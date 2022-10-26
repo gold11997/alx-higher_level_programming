@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 9-add_item.py
-# Gedeon Obae Gekonge <gideonobae@gmail.com>
+# Abraham Benson Sunday abrahambenson95@gmail.com>
 """
 Script that adds all arguments to a Python list, and then saves them to a file
 """
